@@ -1,0 +1,131 @@
+@media (max-width: 768px) {
+    .navbar-toggler {
+        margin-left: 20px !important;
+        border: none !important;
+    }
+
+    .navbar .navbar-nav .nav-item .nav-link {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+      }
+
+      .home-page .heading h1 {
+        font-size: 7rem;
+        margin-top: 80px;
+    }
+
+    .section-title h2 {
+        font-size: 2rem;
+    }
+
+    ul li {
+        font-size: 1rem !important;
+    }
+
+    .page-one.two .imgeas img {
+        max-width: 100%;
+        margin: auto !important;
+        display: flex;
+    }
+
+    .cta-text h4 {
+        font-size: 15px !important;
+    }
+
+    .single-cta i {
+        font-size: 25px !important;
+    }
+
+    .cta-text span {
+        font-size: 12px !important;
+    }
+
+    .contact .imgeas {
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        width: 300px;
+        padding-bottom: 20px;
+    }
+
+    .footer-widget-heading h3::before {
+        content: "";
+        position: absolute;
+        /* left: 207px !important; */
+        left: 44% !important;
+    }
+
+    .footer-social-icon {
+        margin-bottom: 60px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 414px) {
+      .home-page .heading h1 {
+        font-size: 6rem;
+        margin-top: 80px;
+    }
+
+    .section-title h2 {
+        font-size: 1.5rem;
+    }
+
+    .page-one.two .space {
+        word-spacing: 7px;
+    }
+
+    ul li {
+        font-size: .8rem !important;
+    }
+
+    .page-one.two .imgeas img {
+        max-width: 100%;
+        margin: auto !important;
+        display: flex;
+    }
+
+    .cta-text h4 {
+        font-size: 15px !important;
+    }
+
+    .single-cta i {
+        font-size: 25px !important;
+    }
+
+    .cta-text span {
+        font-size: 12px !important;
+    }
+
+    .contact .imgeas {
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        width: 300px;
+        padding-bottom: 20px;
+    }
+
+    .footer-widget-heading h3::before {
+        content: "";
+        position: absolute;
+        /* left: 207px !important; */
+        left: 44% !important;
+    }
+
+    .footer-social-icon {
+        margin-bottom: 60px;
+    }
+
+    .slider-box .carousel .carousel-item .img-box {
+        width: 200px;
+        height: 200px;
+    }
+}
